@@ -1,0 +1,4 @@
+name: SimpleClans
+version: '${project.version}'
+main: swmg.simpleclans.SimpleClans
+api-version: 1.19
